@@ -1,0 +1,17 @@
+[
+    {
+        "shelfname": "Currently Reading",
+        "shelfValue": "currentlyReading",
+        "id": "1"
+    },
+    {
+        "shelfname": "Want to Read",
+        "shelfValue": "wantToRead",
+        "id": "2"
+    },
+    {
+        "shelfname": "Read",
+        "shelfValue": "read",
+        "id": "3"
+    }
+]
